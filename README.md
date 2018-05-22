@@ -48,5 +48,5 @@ The 2nd part of this assignment helps you get familiar with Pandas functionaliti
 	Assignment_1_2.ipynb - A Python notebook which needs to be filled by you at appropriate palces to complete the assignment. Read the comments and text in order to understand what is required to be done at each step. 
 
 
-This part of the assignment is abit tougher than the first one. On successfully filling a plotting function completely, the corresponding plot will get generated.	
+This part of the assignment is a bit tougher than the first one. On successfully filling a plotting function completely, the corresponding plot will get generated.	
 
